@@ -10,7 +10,6 @@ public class Cuenta {
     private int valorinicial;
 
     public Cuenta(Cuenta cAhorro) {
-        return null;
     }
   }
     
